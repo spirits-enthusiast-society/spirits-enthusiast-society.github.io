@@ -1,0 +1,9 @@
+body {
+}
+
+.title {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 3em;
+  text-align: left;
+}
