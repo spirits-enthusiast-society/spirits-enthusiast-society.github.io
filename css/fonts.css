@@ -5,6 +5,17 @@
 
 
 @font-face {
+    font-family: 'Chau';
+    src: url('../fonts/Chau.eot');
+    src: url('../fonts/Chau.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Chau.woff') format('woff'),
+         url('../fonts/Chau.ttf') format('truetype'),
+         url('../fonts/Chau.svg#chau_philomene_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
   font-family: 'Dead Saloon';
   src: url('../fonts/thedeadsaloon-Regular.eot'); /* IE9 Compat Modes */
   src: url('../fonts/thedeadsaloon-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
