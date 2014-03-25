@@ -61,6 +61,28 @@
   font-style: normal;
 }
 
+@font-face {
+	font-family: 'Southern Aire';
+	src: url('../fonts/Southern_Aire.eot');
+	src: url('../fonts/Southern_Aire.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Southern_Aire.woff') format('woff'), /* Modern Browsers */
+       	 url('../fonts/Southern_Aire.ttf')  format('truetype'), /* Safari, Android, iOS */
+       	 url('../fonts/Southern_Aire.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gabba';
+	src: url('../fonts/Gabba.eot');
+	src: url('../fonts/Gabba.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Gabba.woff') format('woff'), /* Modern Browsers */
+       	 url('../fonts/Gabba.ttf')  format('truetype'), /* Safari, Android, iOS */
+       	 url('../fonts/Gabba.svg#svgFontName') format('svg'); /* Legacy iOS */
+  font-weight: normal;
+  font-style: normal;
+}
+
 .ospdin { font-family: 'OSPDIN', monospace; }
 .league-gothic { font-family: 'LeagueGothic', monospace; }
 .fjord { font-family: 'fjord', monospace; }

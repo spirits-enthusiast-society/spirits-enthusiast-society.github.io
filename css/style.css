@@ -2,13 +2,11 @@ body {
 }
 
 .head.title {
-  font-family: 'Dead Saloon';
-  font-size: 3.5em;
-  font-weight: bold;
-  padding: 1em;
+  font-family: 'Southern Aire';
+  font-size: 6em;
+  padding: 0.7em;
   margin:0px;
   text-align: center;
-  text-shadow: -.04em .00em .03em #222222;
   background: #dddddd;
 }
 
@@ -21,21 +19,12 @@ body {
   text-shadow: -.02em .00em .03em #222222;
 }
 
-.title {
-  font-family: "Dead Saloon";
-  font-size: 2.5em;
-  margin: 0px;
-  font-weight: normal;
-  text-align: center;
-  text-shadow: -.02em .00em .03em #222222;
-}
-
 .head.nav-bar {
-  font-family: "Chau";
-  font-size: 1.4em;
+  font-family: "Gabba";
+  font-size: 2em;
+  padding: 1em;
   text-align: center;
   background: #dddddd;
-  margin: 0px;
 }
 
 .head.nav-bar li {
@@ -43,6 +32,7 @@ body {
   padding: 2em;
   padding-top: 0em;
   margin: 0px;
+  background: #dddddd
 }
 
 ul {
@@ -50,7 +40,7 @@ ul {
 }
 
 .intro.living {
-  font-family: "Chau";
+  font-family: "Southern_Aire";
   font-size: 2.5em;
   font-weight: normal;
   margin: 20px;
@@ -59,7 +49,7 @@ ul {
 }
 
 .living.text {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Georgia", sans-serif;
   font-size: 1.2em;
   margin: 0px 100px;
   font-weight: normal;
@@ -67,7 +57,7 @@ ul {
 }
 
 .living.title {
-  font-family: "Chau";
+  font-family: "Southern_Aire";
   font-size: 2.5em;
   font-weight: normal;
   text-align: center;
@@ -75,13 +65,13 @@ ul {
 }
 
 .lecture.act {
-  font-family: "Chau";
+  font-family: "Georgia";
   font-size: 2.5em;
   text-align: center;
 }
 
 .lecture.scene {
-  font-family: "Chau";
+  font-family: "Southern_Aire";
   font-size: 2em;
   text-align: center;
 }
@@ -102,7 +92,7 @@ ul {
 }
 
 .lecture.text {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Georgia", sans-serif;
   font-size: 1.2em;
   margin: 0px 100px;
   font-weight: normal;
@@ -116,9 +106,17 @@ ul {
 }
 
 .slide.center li {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Georgia", sans-serif;
   font-size: 1.2em;
   margin: 0px 200px;
   font-weight: normal;
   text-align: left;
+}
+
+div#header_line {
+  background-color: #000;
+  width: 30%;
+  height: 0.1em;
+  margin: auto;
+
 }
