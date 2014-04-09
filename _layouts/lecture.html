@@ -1,15 +1,11 @@
 <!DOCTYPE html>
   <html>
   <head>
-
       {% include meta.html %}
-
-      <title>The Spirits Enthusiast Society</title>
-
       <!-- styles -->
       {% include base-styles.html %}
 
-      {% if page.css %} <link rel="stylesheet" href="/css/{{ page.css }}"> {% endif %}
+      <link rel="stylesheet" href="/css/lecture.css">
 
   </head>
   <body>
@@ -23,9 +19,5 @@
     </section>
 
     {% include footer.html %}
-
-    {% if page.js %}
-      <script src="/js/{{ page.js }}"></script>
-    {% endif %}
   </body>
 </html>
