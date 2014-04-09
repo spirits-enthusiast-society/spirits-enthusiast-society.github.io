@@ -29,6 +29,37 @@ a:active{
 .main {
   padding: 5em 0;
   margin: 0 20em;
-  line-height: 3em;
+  text-align: center;
 }
 
+.body-text {
+  font-family: "Georgia", sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 2em;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Gabba";
+  font-size: 5em;
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  line-height: 2em;
+}
+
+h3 {
+  font-family: "Gabba";
+  font-size: 4em;
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  line-height: 2em;
+}
+
+h4 {
+  font-family: "Gabba";
+  font-size: 3em;
+  font-weight: normal;
+  letter-spacing: 0.2em;
+  line-height: 1.5em;
+}
