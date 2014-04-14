@@ -64,3 +64,9 @@ h5 {
     font-size: 3em;
     line-height: 1em;
 }
+
+.image.medium {
+  display: block;
+  margin: 20px auto;
+  height: 300px;
+}
