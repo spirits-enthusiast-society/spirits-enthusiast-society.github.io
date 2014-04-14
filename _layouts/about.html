@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+  <html>
+  <head>
+      {% include meta.html %}
+      <!-- styles -->
+      {% include base-styles.html %}
+
+
+
+
+      </head>
+  <body>
+
+    {% include header.html %}
+
+<div class="row-fluid">
+    <div class="span8">
+        {{ content }}
+    </div>
+    <div class="span4">
+        {% include sidebar.html %}
+    </div>
+</div>
+
+
+    {% include footer.html %}
+
+    {% if page.js %}
+      <script src="/js/{{ page.js }}"></script>
+    {% endif %}
+  </body>
+</html>
