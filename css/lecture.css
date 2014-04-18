@@ -45,3 +45,11 @@
     line-height: 2em;
     margin: 1em 120px;
 }
+
+.lecture-list {
+ font-family: "Georgia", sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin: 1em 150px;
+}
