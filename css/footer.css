@@ -1,0 +1,13 @@
+.footernav {
+  text-align: right;
+  background: #ffffff;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: #000000;
+  padding: 2em;
+}
+
+.footernav li {
+  display: inline-block;
+  padding: 0 1.5em;
+}
