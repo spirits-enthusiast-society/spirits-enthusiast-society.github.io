@@ -1,0 +1,47 @@
+.lecture-text {
+  font-family: "Georgia", sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.5em;
+  margin: 1em 120px;
+}
+
+.lecture-title-2 {
+    font-size: 5em;
+    text-align: center;
+    font-family: "Gabba";
+    font-weight: normal;
+    letter-spacing: 0.2em;
+    line-height: 2em;
+    margin: 1em auto;
+}
+
+.lecture-title-3 {
+    font-size: 4em;
+    text-align: center;
+    font-family: "Gabba";
+    font-weight: normal;
+    letter-spacing: 0.2em;
+    line-height: 2em;
+    margin: 1em auto
+}
+
+.lecture-title-4 {
+    font-size: 3em;
+    line-height: 1.5em;
+    font-family: "Gabba";
+    font-weight: normal;
+    letter-spacing: 0.2em;
+    line-height: 2em;
+    margin: 1em 120px;
+}
+
+.lecture-title-5 {
+    font-size: 3em;
+    line-height: 1em;
+    font-family: "Gabba";
+    font-weight: normal;
+    letter-spacing: 0.2em;
+    line-height: 2em;
+    margin: 1em 120px;
+}

@@ -1,11 +1,17 @@
-.column1of2 {
-	float: right;
-	width: 700px;
-	margin: 30px;
+.about-photo-container {
+  margin: 2em auto;
+  width: 1160px;
 }
 
-.column2of2 {
-	float: right;
-	width: 450px;
-	margin: 10px;
+.about-photo {
+  width: 100%;
+}
+
+.about-text {
+  ont-family: "Georgia", sans-serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 2em;
+  margin: 1em 120px;
+  text-align: center;
 }
