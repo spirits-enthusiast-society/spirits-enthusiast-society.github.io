@@ -23,14 +23,14 @@
   font-style: italic;
   text-transform: uppercase;
   line-height: 2em;
-  margin: 2em 6.5em;
+  margin: 0 6.5em;
   text-align: center;
 }
 
 .hrule {
-  min-height: 1px;
-    clear:both; width:60%;
-    border-bottom:1px solid #d1d1d1;
-    height:1px; padding-top:5px;
-    margin:5px auto;
+  border: 0;
+  border-top: 1px solid #d1d1d1;
+  height: 0;
+  margin: 6em;
+  width: 60%;
 }
