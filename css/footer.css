@@ -1,13 +1,16 @@
-.footernav {
+.social {
   text-align: right;
   background: #ffffff;
   border-top: 1px solid;
   border-bottom: 1px solid;
   border-color: #000000;
-  padding: 2em;
+  padding: 2em 120px;
+
 }
 
-.footernav li {
-  display: inline-block;
-  padding: 0 1.5em;
+.icon {
+}
+
+.social-icon {
+  padding: 0 1em;
 }
