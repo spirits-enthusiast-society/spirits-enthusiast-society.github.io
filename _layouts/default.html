@@ -1,11 +1,8 @@
 <!DOCTYPE html>
   <html>
   <head>
-
+      <title>{{page.title}}</title>
       {% include meta.html %}
-
-      <title>The Spirits Enthusiast Society</title>
-
       <!-- styles -->
       {% include base-styles.html %}
 
@@ -16,13 +13,9 @@
 
     {% include header.html %}
 
-    <section class="main">
+        {{ content }}
 
-      {{ content }}
-
-    </section>
-    </body>
-
+  </body>
     {% include footer.html %}
 
     {% if page.js %}
